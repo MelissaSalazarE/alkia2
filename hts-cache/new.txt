@@ -1,0 +1,5 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+21:23:32	11903/11903	---M-Z	200	added ('OK')	text/html	etag:4fab36f85d4519e77bd59834c2cde9df	http://m94606.wix.com/alkia	E:/My%20Web%20Sites/fk/m94606.wix.com/alkia.html	(from )
+21:23:33	598/598	---M--	200	added ('OK')	text/plain	date:Tue,%2023%20Feb%202016%2015:55:58%20GMT	http://m94606.wix.com/robots.txt	E:/My%20Web%20Sites/fk/m94606.wix.com/robots.txt	(from http://m94606.wix.com/alkia)
+21:23:33	3024/3024	---M-Z	404	error ('Not%20Found')	text/html	date:Tue,%2023%20Feb%202016%2015:55:58%20GMT	http://m94606.wix.com/sitemap.xml	E:/My%20Web%20Sites/fk/m94606.wix.com/sitemap.xml	(from http://m94606.wix.com/alkia)
+21:23:34	3024/3024	---M-Z	404	error ('Not%20Found')	text/html	date:Tue,%2023%20Feb%202016%2015:55:32%20GMT	http://m94606.wix.com/feed.xml	E:/My%20Web%20Sites/fk/m94606.wix.com/feed.xml	(from http://m94606.wix.com/alkia)

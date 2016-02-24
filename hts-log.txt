@@ -1,0 +1,22 @@
+HTTrack3.48-14+htsswf+htsjava launched on Tue, 23 Feb 2016 21:23:31 at http://m94606.wix.com/alkia +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps0u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" -P rs174:rs174174@172.31.1.4:8080 http://m94606.wix.com/alkia -O1 "E:\My Web Sites\fk" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:23:38	Error: 	"Not Found" (404) at link m94606.wix.com/sitemap.xml (from m94606.wix.com/alkia)
+21:23:38	Error: 	"Not Found" (404) at link m94606.wix.com/feed.xml (from m94606.wix.com/alkia)
+21:23:38	Warning: 	Retry after error -4 (Connect Error) at link https://static.parastorage.com/services/third-party/requirejs/2.1.15/require.min.js (from m94606.wix.com/alkia)
+21:23:38	Warning: 	Retry after error -4 (Connect Error) at link https://static.parastorage.com/services/santa/1.1196.16/app/main-r.min.js (from m94606.wix.com/alkia)
+21:23:38	Warning: 	Retry after error -4 (Connect Error) at link https://static.parastorage.com/services/santa/1.1196.16/static/css/viewer.css (from m94606.wix.com/alkia)
+21:23:39	Warning: 	Retry after error -4 (Connect Error) at link https://static.parastorage.com/services/third-party/requirejs/2.1.15/require.min.js (from m94606.wix.com/alkia)
+21:23:39	Warning: 	Retry after error -4 (Connect Error) at link https://static.parastorage.com/services/santa/1.1196.16/app/main-r.min.js (from m94606.wix.com/alkia)
+21:23:39	Warning: 	Retry after error -4 (Connect Error) at link https://static.parastorage.com/services/santa/1.1196.16/static/css/viewer.css (from m94606.wix.com/alkia)
+21:23:40	Error: 	"Connect Error" (-4) after 2 retries at link https://static.parastorage.com/services/third-party/requirejs/2.1.15/require.min.js (from m94606.wix.com/alkia)
+21:23:40	Error: 	"Connect Error" (-4) after 2 retries at link https://static.parastorage.com/services/santa/1.1196.16/app/main-r.min.js (from m94606.wix.com/alkia)
+21:23:40	Error: 	"Connect Error" (-4) after 2 retries at link https://static.parastorage.com/services/santa/1.1196.16/static/css/viewer.css (from m94606.wix.com/alkia)
+
+HTTrack Website Copier/3.48-14 mirror complete in 10 seconds : 13 links scanned, 1 files written (11903 bytes overall) [9544 bytes received at 954 bytes/sec], 17951 bytes transferred using HTTP compression in 3 files, ratio 33%
+(5 errors, 6 warnings, 0 messages)
